@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=1DF7EF&background=1DFFEA00&width=550&lines=%F0%9F%91%8B+Hey%2C+I'm+Sankari.+You+are+Welcome+%F0%9F%A4%9D" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=1DF7EF&background=1DFFEA00&width=550&lines=%F0%9F%91%8B+Hey%2C+I'm+Sankari.+You+are+Welcome+%F0%9F%A4%9D" alt="Typing SVG" /></a></center>
 
 # 🌟 About Me  
 👨‍💻 Passionate Programmer | 💡 Innovative Thinker | 📚 Lifelong Learner  
